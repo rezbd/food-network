@@ -63,6 +63,15 @@ footer{
     color: orange;
 }
 
+.top-sec{
+    padding: 100px;
+    color:gray;
+}
+
+.top-sec img{
+    width: 90%;
+}
+
 .about-me{
     margin-left: 150px;
     margin-right: 150px;
@@ -78,6 +87,21 @@ footer{
     padding-bottom: 20px;
     line-height: 1.5em;
     color: rgb(95, 95, 95);
+}
+
+.owner {
+    background-image: url(images/shapes/7.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.owner img{
+    padding-left: 80px;
+    width: 300px;
+    display: block;
+    padding-top: 40px;
+    margin-left: 20%;
+    margin-right: auto;
 }
 
 .recipe-intro{
@@ -138,30 +162,6 @@ footer{
 .money{
     font-size: 1.3em;
     font-style: oblique;
-}
-
-#top-sec{
-    padding: 100px;
-    color:gray;
-}
-
-#top-sec img{
-    width: 90%;
-}
-
-#owner {
-    background-image: url(images/shapes/7.png);
-    background-size: 100%;
-    background-repeat: no-repeat;
-}
-
-#owner img{
-    padding-left: 80px;
-    width: 300px;
-    display: block;
-    padding-top: 40px;
-    margin-left: 20%;
-    margin-right: auto;
 }
 
 #three-recipes{
