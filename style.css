@@ -10,13 +10,11 @@ h1{
     
 }
 
-
 footer{
     color: rgb(187, 185, 185);
     font-size: 0.9em;
     padding-top: 15px;
 }
-
 
 .pricing{
     margin-top: 50px;
@@ -37,7 +35,6 @@ footer{
     margin-left: 370px;
    
 }
-
 
 .yearly{
     margin-left: 40px;
@@ -78,7 +75,9 @@ footer{
 }
 
 .about-me p{
-    padding-bottom: 30px;
+    padding-bottom: 20px;
+    line-height: 1.5em;
+    color: rgb(95, 95, 95);
 }
 
 .recipe-intro{
@@ -136,6 +135,11 @@ footer{
     background: rgb(238, 234, 234);
 }
 
+.money{
+    font-size: 1.3em;
+    font-style: oblique;
+}
+
 #top-sec{
     padding: 100px;
     color:gray;
@@ -147,18 +151,15 @@ footer{
 
 #owner {
     background-image: url(images/shapes/7.png);
-    /* background-size:cover; */
     background-size: 100%;
     background-repeat: no-repeat;
 }
 
 #owner img{
     padding-left: 80px;
-    /* width: 50%; */
     width: 300px;
     display: block;
     padding-top: 40px;
-    /* margin-left: auto; */
     margin-left: 20%;
     margin-right: auto;
 }
