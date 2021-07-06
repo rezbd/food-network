@@ -46,7 +46,24 @@ a{
     text-align: center;
     margin-left: 367px;
     margin-right: 367px;
+    margin-bottom: 38px;
+    padding-top: 40px;
     color: gray;
+}
+
+
+
+.recipe{
+    width: 25%;
+    border: 15px solid white;
+    border-radius: 20px;
+    /* margin-right: 54px; */
+    box-shadow: 5px 7px 40px gray;
+}
+
+.recipe img{
+  width: 100%;
+
 }
 
 #top-sec{
@@ -71,3 +88,16 @@ a{
     margin-left: auto;
     margin-right: auto;
 }
+
+#three-recipes{
+    padding-left: 101px;
+    padding-right: 100px;
+    /* display: flex;*/
+    justify-content: center;
+}
+
+#mid-recipe{
+    margin-left: 54px;
+    margin-right: 54px;
+}
+
