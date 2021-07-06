@@ -10,6 +10,7 @@ h1{
     
 }
 
+
 footer{
     color: rgb(187, 185, 185);
     font-size: 0.9em;
@@ -19,25 +20,24 @@ footer{
 
 .pricing{
     margin-top: 50px;
-    margin-bottom: 50px;
+    margin-bottom: 30px;
     text-align: center;
     justify-content: center;
 }
-
 
 .fees{
     width: 20%;
     border: 3px solid;
     border-radius: 10px;
     box-shadow: 5px 7px 30px gray;
-    /* padding-top: 20px;
-    padding-bottom: 20px; */
     padding: 30px
 }
 
 .pricing .flex{
     margin-left: 370px;
+   
 }
+
 
 .yearly{
     margin-left: 40px;
@@ -47,14 +47,12 @@ footer{
     color: white;
     padding: 20px 38px;
     text-decoration: none;
-    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    background: linear-gradient(45deg, lightsalmon, tomato);
     box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
     border-radius: 100px;
     position: absolute;
     margin-top: 30px;
 }
-
-
 
 .flex{
     display: flex;
@@ -62,7 +60,6 @@ footer{
 
 .half-width{
     width: 50%;
-    
 }
 
 .orange{
@@ -76,6 +73,10 @@ footer{
     color: gray;
 }
 
+.about-me h2{
+    font-size: 30px;
+}
+
 .recipe-intro{
     text-align: center;
     margin-left: 367px;
@@ -85,19 +86,20 @@ footer{
     color: gray;
 }
 
-
+.recipe-intro h2{
+    font-size: 32px;
+    color:rgb(97, 96, 96)
+}
 
 .recipe{
     width: 25%;
     border: 15px solid white;
     border-radius: 20px;
-    /* margin-right: 54px; */
     box-shadow: 5px 7px 40px gray;
 }
 
 .recipe img{
   width: 100%;
-
 }
 
 .trial{
@@ -113,7 +115,6 @@ footer{
     text-align: center;
     padding-top: 20px;
     padding-bottom: 100px;
-    
 }
 
 .free-trial{
@@ -124,7 +125,6 @@ footer{
     text-decoration: none;
     text-align: center;
     width: 15%;
-    /* margin-left: 400px; */
 }
 
 .demo{
@@ -159,15 +159,10 @@ footer{
     padding-left: 101px;
     padding-right: 100px;
     justify-content: center;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
 }
 
 #mid-recipe{
     margin-left: 54px;
     margin-right: 54px;
 }
-
-
-
-
-
