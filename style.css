@@ -10,7 +10,37 @@ h1{
     
 }
 
+footer{
+    color: rgb(187, 185, 185);
+    font-size: 0.9em;
+    padding-top: 15px;
+}
 
+
+.pricing{
+    margin-bottom: 50px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.fees{
+    width: 20%;
+    border: 3px solid;
+    border-radius: 10px;
+    box-shadow: 5px 7px 30px gray;
+    /* padding-top: 20px;
+    padding-bottom: 20px; */
+    padding: 30px
+}
+
+.pricing .flex{
+    margin-left: 370px;
+}
+
+.yearly{
+    margin-left: 40px;
+}
 
 .button{
     color: white;
@@ -23,11 +53,7 @@ h1{
     margin-top: 30px;
 }
 
-footer{
-    color: rgb(187, 185, 185);
-    font-size: 0.9em;
-    padding-top: 15px;
-}
+
 
 .flex{
     display: flex;
@@ -137,6 +163,8 @@ footer{
     margin-left: 54px;
     margin-right: 54px;
 }
+
+
 
 
 
