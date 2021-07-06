@@ -12,7 +12,7 @@ h1{
 
 
 
-a{
+.button{
     color: white;
     padding: 20px 38px;
     text-decoration: none;
@@ -74,8 +74,10 @@ footer{
 }
 
 .trial{
+    padding-top: 50px;
     padding-bottom: 50px;
     margin-bottom: 100px;
+    justify-content: center;
 }
 
 .footer{
@@ -85,6 +87,20 @@ footer{
     padding-top: 20px;
     padding-bottom: 100px;
     
+}
+
+.free-trial{
+    color: black;
+    border-radius: 5px;
+    background: rgba(151, 169, 172, 0.884);
+    padding: 10px 40px;
+    text-decoration: none;
+    /* margin-left: 400px; */
+}
+
+.demo{
+    margin-left: 20px;
+    background: rgb(238, 234, 234);
 }
 
 #top-sec{
@@ -122,11 +138,5 @@ footer{
     margin-right: 54px;
 }
 
-#try-free{
-    margin-left: 400px;
-}
 
-#watch-demo{
-    margin-left: 300px;
-}
 
