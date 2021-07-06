@@ -18,6 +18,7 @@ footer{
 
 
 .pricing{
+    margin-top: 50px;
     margin-bottom: 50px;
     text-align: center;
     justify-content: center;
@@ -121,6 +122,8 @@ footer{
     background: rgba(151, 169, 172, 0.884);
     padding: 10px 40px;
     text-decoration: none;
+    text-align: center;
+    width: 15%;
     /* margin-left: 400px; */
 }
 
@@ -155,8 +158,8 @@ footer{
 #three-recipes{
     padding-left: 101px;
     padding-right: 100px;
-    /* display: flex;*/
     justify-content: center;
+    margin-bottom: 80px;
 }
 
 #mid-recipe{
